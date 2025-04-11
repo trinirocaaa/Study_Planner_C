@@ -1,1 +1,1 @@
-# Study_Planner_C
+# studyplanner
